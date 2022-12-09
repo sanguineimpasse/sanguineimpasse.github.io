@@ -65,6 +65,7 @@ img.moon-icon{
 
 .response{
     display: none;
+    position: fixed;
     margin-left: 1000vw;
 }
 
