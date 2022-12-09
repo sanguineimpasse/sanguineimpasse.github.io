@@ -63,8 +63,9 @@ img.moon-icon{
     width: 2.5vw;
 }
 
-p.response{
+.response{
     display: none;
+    margin-left: 1000vw;
 }
 
 @media screen and (max-width: 1100px){
