@@ -31,3 +31,9 @@ moonIcon.addEventListener('click', ()=> {
         isDay = true;
     }
 });
+
+const testPageLink = document.querySelector('.testpage-link');
+
+testPageLink.addEventListener('click', ()=> {
+    window.location.href = "./testpages/attention.html";
+});

@@ -67,6 +67,16 @@ img.moon-icon{
     display: none;
 }
 
+/*test stuff*/
+.testpage-link{
+    height: 1vw;
+    width: 1vw;
+    background-color: #00000005;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+
 @media screen and (max-width: 1100px){
     img.background{
         position: fixed;
@@ -76,6 +86,7 @@ img.moon-icon{
         width: 170vw;
     }
 }
+
 
 @media screen and (max-width: 800px){
     img.background{
